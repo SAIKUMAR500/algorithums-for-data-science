@@ -1,0 +1,7 @@
+requests for HTTP requests
+
+beautifulsoup4 for HTML parsing
+
+sentence-transformers for semantic similarity
+
+transformers for NLP models
