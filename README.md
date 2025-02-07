@@ -1,6 +1,5 @@
 # algorithums-for-data-science
 
-              ![image](https://github.com/user-attachments/assets/6b46375c-068d-4181-a0d0-b33aa1336e2f)
-
+![image](https://github.com/user-attachments/assets/5c134bfa-716f-4b85-8395-288b9ac8ff86)
 
             
