@@ -1,34 +1,6 @@
 # algorithums-for-data-science
 
-                   +-----------------+
-                   |  User Query     |
-                   +--------+--------+
-                            |
-                   +--------v--------+
-                   |  Target URL     |
-                   +--------+--------+
-                            |
-+--------------------------------------------------------------------------+
-|                          Validity Assessment Engine                     |
-| +---------------------+  +------------------+  +---------------------+  |
-| | Content Fetcher     |  | NLP Processors   |  | External Services   |  |
-| | - HTTP requests     |  | - Transformers   |  | - Fact Check APIs   |  |
-| | - HTML parsing      |  | - Sentiment      |  | - Scholar APIs      |  |
-| +----------+----------+  +-------+----------+  +----------+----------+  |
-|            |                      |                        |             |
-|            +----------+  +--------+           +-----------+             |
-|                       |  |                     |                         |
-|            +----------v--v---------------------v---------+              |
-|            |              Scoring Engine                  |              |
-|            | - Weighted scoring system                    |              |
-|            | - Multi-factor aggregation                   |              |
-|            +----------------------------------------------+              |
-+--------------------------------------------------------------------------+
-                            |
-                   +--------v--------+
-                   |  Validity Report|
-                   +-----------------+
-
+              ![image](https://github.com/user-attachments/assets/6b46375c-068d-4181-a0d0-b33aa1336e2f)
 
 
             
